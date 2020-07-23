@@ -350,7 +350,7 @@ body {
     shape-outside: circle(50% at 50% 50%);
     -webkit-clip-path: circle(50% at 50% 50%);
     clip-path: circle(50% at 50% 50%);
-    transform: translateX(-3rem) skewX(12deg);
+    transform: translateX(-3rem) skewX(11deg);
     position: relative; }
   .story__img {
     height: 100%;
@@ -358,7 +358,7 @@ body {
     backface-visibility: hidden;
     transition: all .5s; }
   .story__text {
-    transform: skewX(12deg); }
+    transform: skewX(11deg); }
   .story__caption {
     position: absolute;
     top: 50%;
